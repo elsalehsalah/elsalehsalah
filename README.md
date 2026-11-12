@@ -12,14 +12,14 @@ work is dashboard-heavy B2B products, where the hard part is usually density, no
 
 | Case study | What it was | |
 |---|---|---|
-| **Onboarding Experience** | Sign-up completion 25% → 43%. A prettier onboarding moved it five points; SSO moved it the rest. | `B2C` `CRO` `Growth` |
-| **Making Payouts Easier** | Axis Pay — payroll and payouts for startups. KYC onboarding, invoicing, bill payments, and the design system underneath. | `B2B` `Fintech` `SaaS` |
-| **Geidea: Super App** | Product designer *and* product owner. Market research across Egypt's super apps, then defining the feature that earned its place. | `B2B` `Fintech` |
-| **Alraedah: Micro Financing** | Design thinking end to end for SME owners managing loans, installments and fees — research through usability testing. | `B2C` `Fintech` |
-| **Mrsool** | Read the DAU/WAU gap to find where engagement was actually leaking, then designed against what the data showed. | `B2C` `Growth` |
-| **Startup Insider** | A navigation audit — cognitive load, competing hierarchy, decision fatigue — resolved with card sorting. | `Growth` |
-| **The Ultimate Cart Page** | Cart abandonment averages 70%. Three axes against it: clarity, hierarchy, and visible trust. | |
-| **Grocery App UI Kit** | A UI kit and design system — components, screens and motion, built as a reusable template. | `B2C` `Ecommerce` |
+| **[Onboarding Experience](https://portfolio-elsalehsalahs-projects.vercel.app/work/onboarding-experience/)** | Sign-up completion 25% → 43%. A prettier onboarding moved it five points; SSO moved it the rest. | `B2C` `CRO` `Growth` |
+| **[Making Payouts Easier](https://portfolio-elsalehsalahs-projects.vercel.app/work/making-payouts-easier/)** | Axis Pay — payroll and payouts for startups. KYC onboarding, invoicing, bill payments, and the design system underneath. | `B2B` `Fintech` `SaaS` |
+| **[Geidea: Super App](https://portfolio-elsalehsalahs-projects.vercel.app/work/geidea-super-app/)** | Product designer *and* product owner. Market research across Egypt's super apps, then defining the feature that earned its place. | `B2B` `Fintech` |
+| **[Alraedah: Micro Financing](https://portfolio-elsalehsalahs-projects.vercel.app/work/alraedah-micro-financing/)** | Design thinking end to end for SME owners managing loans, installments and fees — research through usability testing. | `B2C` `Fintech` |
+| **[Mrsool](https://portfolio-elsalehsalahs-projects.vercel.app/work/mrsool/)** | Read the DAU/WAU gap to find where engagement was actually leaking, then designed against what the data showed. | `B2C` `Growth` |
+| **[Startup Insider](https://portfolio-elsalehsalahs-projects.vercel.app/work/startup-insider/)** | A navigation audit — cognitive load, competing hierarchy, decision fatigue — resolved with card sorting. | `Growth` |
+| **[The Ultimate Cart Page](https://portfolio-elsalehsalahs-projects.vercel.app/work/building-the-ultimate-cart-page/)** | Cart abandonment averages 70%. Three axes against it: clarity, hierarchy, and visible trust. | |
+| **[Grocery App UI Kit](https://portfolio-elsalehsalahs-projects.vercel.app/work/grocery-app-ui-kit/)** | A UI kit and design system — components, screens and motion, built as a reusable template. | `B2C` `Ecommerce` |
 
 > Dashboard work for enterprise clients is under NDA and best shown over a call.
 
